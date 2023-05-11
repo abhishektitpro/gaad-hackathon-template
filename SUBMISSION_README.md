@@ -36,7 +36,7 @@ Our team members came together because ...
  
 | Name | Organization |
 | --- | --- |
-| [Ankur Bansal](https://www.linkedin.com/mwlite/in/bansalankur) | DFS BT |
+| [Ankur Bansal](https://www.linkedin.com/in/bansalankur) | DFS BT |
 | [Praveen Prasanna Kumar](https://www.linkedin.com/in/praveenprasanna84/) | DFS BT |
 | [Akhil Koothal](https://www.linkedin.com/in/akhil-koothal/) | DFS BT |
 | [Abhishek Tiwari](https://www.linkedin.com/in/abhishektiwari39/) | DFS BT|
