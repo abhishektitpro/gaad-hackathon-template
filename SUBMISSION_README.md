@@ -13,7 +13,7 @@
 | Event Track | Design Thinking |
 
 ## Use Case Abstract
-Design for providing a accessibility solution to special needs customers on DFS Account center website.
+Design for providing a accessibility solution to special needs customers on Discover Financial Services app.
 
 ## Project Artifacts
 
