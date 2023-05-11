@@ -7,7 +7,7 @@
 
 | Event Attribute| Description |
 | --- | --- |
-| Project Team Name | ADA Ninja |
+| Project Team Name | ADA Ninjas |
 | Project Name | Next Gen Accessibility |
 | Challenge | 1 |
 | Event Track | Design Thinking |
